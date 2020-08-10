@@ -1,0 +1,71 @@
+.cheakout {
+  display: flex;
+  padding: 20px;
+  background-color: #fff;
+  height: max-content;
+}
+
+.empty-basket > h2,
+.cheakout-title > h2 {
+  margin: 20px 20px;
+}
+
+.empty-basket > p {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.cheakout-left {
+  width: 100%;
+  margin-right: 20px;
+}
+
+.cheakout-right {
+  width: 20%;
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.free-delivery {
+  margin-top: 10px;
+  background-color: #fff;
+  font-size: smaller;
+  height: 30px;
+  width: 95%;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+.selectcheakout {
+  display: flex;
+}
+
+.space {
+  height: 10px;
+  width: 40px;
+  background-color: #fff;
+}
+
+.greenl {
+  display: flex;
+  color: green;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.below-cheakout {
+  background-color: #fff;
+  font-size: small;
+  font-weight: 400;
+}
+
+.below-cheakout > p {
+  margin-left: 35px;
+  padding: 5px;
+}
+
+.below-cheakout > hr {
+  margin-left: 20px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
